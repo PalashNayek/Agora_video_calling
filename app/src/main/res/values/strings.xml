@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agora_video_calling</string>
+    <string name="join_call">Join Call</string>
+    <string name="leave_call">Leave Call</string>
+</resources>
